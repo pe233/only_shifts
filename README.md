@@ -1,3 +1,3 @@
 # only_shifts
 
-Name change Shift_Craft
+Name change to Shift Crafts
